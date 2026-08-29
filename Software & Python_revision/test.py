@@ -1,0 +1,5 @@
+name = str(input("Enter your name: "))
+age = int(input("Enter your age: "))
+surname = str(input("Enter your surname: "))
+profession = str(input("Enter your profession: "))
+print(f"Hello, {name} {surname}! You are {age} and work as a {profession}.")
